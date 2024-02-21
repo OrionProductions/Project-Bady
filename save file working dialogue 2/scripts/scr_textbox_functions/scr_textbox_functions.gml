@@ -3,6 +3,8 @@ function scr_set_defaults_for_text() {
 	line_break_num[page_number] = 0;
 	line_break_offset[page_number] = 0;
 	
+	
+	 // this is a test
 	//variable for every letter / character
 	for (var c = 0; c < 500; c++)
 	{
