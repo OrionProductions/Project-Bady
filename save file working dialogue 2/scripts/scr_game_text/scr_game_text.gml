@@ -11,8 +11,6 @@ switch(_text_id) {
 
 // Bedroom Interactables
 
-// This is a test of cool enemies
-
 case "bedroom_poster":
 	scr_text("A Poster of MISTA STAR");
 	scr_text_color(12, 22, c_yellow, c_yellow, c_white, c_white)
